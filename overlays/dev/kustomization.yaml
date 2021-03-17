@@ -1,0 +1,6 @@
+resources:
+- ../../k8s
+namePrefix: dev-
+namespace: development
+commonLabels:
+  environment: development
